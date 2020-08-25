@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ItemType>GenericProject</ItemType>
+    <ProjectGuid>{5F7010F1-2F3C-41CB-A383-9BE289F43E26}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="SM\Home.html" />
+    <None Include="SM\About.html" />
+    <None Include="SM\Subjects\Basics.html" />
+    <None Include="SM\Subjects\Basics\AddandSubtract.html" />
+    <None Include="SM\Subjects\Basics\DecandFrac.html" />
+    <None Include="SM\Subjects\Basics\MultiplyandDivide.html" />
+    <None Include="SM\StyleSheet.css" />
+    <None Include="Images\SMLogo.jpeg" />
+    <None Include="Images\heroAccent.png" />
+    <None Include="Images\accent.png" />
+    <None Include="Images\bullet.png" />
+    <None Include="Images\orderedList0.png" />
+    <None Include="Images\orderedList1.png" />
+    <None Include="Images\orderedList2.png" />
+    <None Include="Images\orderedList3.png" />
+    <None Include="Images\orderedList4.png" />
+    <None Include="Images\orderedList5.png" />
+    <None Include="Images\orderedList6.png" />
+    <None Include="Images\orderedList7.png" />
+    <None Include="Images\orderedList8.png" />
+    <None Include="Images\Addition and Subtraction\Subtraction 6.jpg" />
+    <None Include="Images\Addition and Subtraction\Subtraction 4.jpg" />
+    <None Include="Images\Addition and Subtraction\Subtraction 5.jpg" />
+    <None Include="Images\Addition and Subtraction\Subtraction 2.jpg" />
+    <None Include="Images\Addition and Subtraction\Subtraction 3.jpg" />
+    <None Include="Images\Addition and Subtraction\Addition1.jpeg" />
+    <None Include="Images\Addition and Subtraction\Addition 6.jpg" />
+    <None Include="Images\Addition and Subtraction\Addition 5.jpg" />
+    <None Include="Images\Addition and Subtraction\Addition 4.jpg" />
+    <None Include="Images\Addition and Subtraction\Addition 3.jpg" />
+    <None Include="Images\Addition and Subtraction\Addition 2.jpg" />
+    <None Include="Images\Addition and Subtraction\Subtraction 1.jpeg" />
+    <None Include="Images\Addition and Subtraction\InkedSubtraction 1_LI.jpg" />
+    <None Include="Images\Fractions and Decimals\Fraction 1.jpeg" />
+    <None Include="Images\Multiplication and Division\Multiplication 4.jpg" />
+    <None Include="Images\Multiplication and Division\Multiplication 5.jpg" />
+    <None Include="Images\Multiplication and Division\Division 1.jpeg" />
+    <None Include="Images\Multiplication and Division\Multiplication 7.jpg" />
+    <None Include="Images\Multiplication and Division\Division 3.jpg" />
+    <None Include="Images\Multiplication and Division\Division 2.jpg" />
+    <None Include="Images\Multiplication and Division\Multiplication 6.jpg" />
+    <None Include="Images\Multiplication and Division\Multiplication 2.jpg" />
+    <None Include="Images\Multiplication and Division\Division 6.jpg" />
+    <None Include="Images\Multiplication and Division\Division 7.jpg" />
+    <None Include="Images\Multiplication and Division\Multiplication 3.jpg" />
+    <None Include="Images\Multiplication and Division\Division 5.jpg" />
+    <None Include="Images\Multiplication and Division\Division 4.jpg" />
+    <None Include="Images\Multiplication and Division\Multiplication 1.jpeg" />
+    <None Include="Images\Multiplication and Division\Multiplication 8.jpg" />
+    <None Include="Images\Multiplication and Division\Multiplication 9.jpg" />
+  </ItemGroup>
+</Project>
